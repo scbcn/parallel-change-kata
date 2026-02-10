@@ -8,3 +8,7 @@ vendor
 node_modules
 dist
 Java/target/*
+<<<<<<< HEAD
+=======
+Rust/target/*
+>>>>>>> f66d758 (feat: Add Rust project setup and update JavaScript package configuration.)

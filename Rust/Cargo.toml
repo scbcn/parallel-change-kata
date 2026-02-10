@@ -1,0 +1,11 @@
+[package]
+name = "parallel_change"
+version = "0.1.0"
+edition = "2021"
+authors = ["Parallel Change Kata"]
+
+[lib]
+name = "parallel_change"
+path = "src/lib.rs"
+
+[dependencies]

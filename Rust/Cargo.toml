@@ -2,7 +2,7 @@
 name = "parallel_change"
 version = "0.1.0"
 edition = "2021"
-authors = ["Parallel Change Kata"]
+authors = ["Anyul Rivas <anyulled@gmail.com>"]
 
 [lib]
 name = "parallel_change"

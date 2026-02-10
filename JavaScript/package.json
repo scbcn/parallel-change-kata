@@ -13,7 +13,7 @@
     }
   },
   "keywords": [],
-  "author": "",
+  "author": "Anyul Rivas <anyulled@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-env": "^7.14.5",
